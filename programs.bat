@@ -1,6 +1,7 @@
 TITLE "Instalando Programas"
 REM la siguiente linea se encarga de desactivar la confirmacion de instalacion para evitar dar si en cada programa
 choco feature enable -n=allowGlobalConfirmation
+REM Agrega los programas que desees aqui abajo
 choco install vscode 
 choco install firefox 
 choco install python3 
