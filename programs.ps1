@@ -19,7 +19,7 @@ choco install keepassxc
 choco install kdenlive 
 
 Write-Host "Listo el pollo, apreta cualquier cosa para terminar"
-$input = Read-Host
+
 # SIG # Begin signature block
 # MIIFhQYJKoZIhvcNAQcCoIIFdjCCBXICAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
