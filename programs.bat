@@ -20,6 +20,7 @@ choco install equalizerapo
 choco install obsidian 
 choco install keepassxc 
 choco install kdenlive 
+choco install oh-my-posh
 REM Re-Activamos la confirmacion de instalacion de paquetes
 choco feature disable -n=allowGlobalConfirmation
 @ECHO "Listo el Pollo!"
